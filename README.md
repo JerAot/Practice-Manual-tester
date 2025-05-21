@@ -1,6 +1,7 @@
 # Practice-Manual-tester
 ## 🧪 Manual testing - saucedemo.com
-this repository contains manual test cases for saucedemo.com, focused on login, cart and checkout functionality.
+This repository contains manual test cases for [saucedemo.com](https://www.saucedemo.com),  
+focused on login, cart, and checkout functionality.
 
 ### 🎯 Scope
 -🔑Login functionality<br>
@@ -9,9 +10,9 @@ this repository contains manual test cases for saucedemo.com, focused on login, 
 -📝Form validation<br>
 
 #### 📁Folder Structure
-manual-test-saucedemo/<br>
-- test cases<br>
-- evidence<br>
+manual-test-saucedemo/  
+- test cases  
+- evidence  
    - SC01_ตรวจสอบการเข้าสู่ระบบ
       - TC001_ระบบสามารถ login ได้เมื่อกรอกข้อมูลที่ถูกต้อง
       - TC002_ระบบไม่สามารถ login เมื่อกรอกข้อมูลที่ผิด
