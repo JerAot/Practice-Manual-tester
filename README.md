@@ -3,6 +3,6 @@
 this repository contains manual test cases for saucedemo.com, focused on login, cart and checkout functionality.
 ### 🎯 Scope
 -Login functionality<br>
--Add/remove from cart
--Checkout process
--Form validation
+-Add/remove from cart<br>
+-Checkout process<br>
+-Form validation<br>
