@@ -11,7 +11,8 @@ focused on login, cart, and checkout functionality.
 
 #### 📁Folder Structure
 manual-test-saucedemo/  
-- test cases  
+- test cases  [(OAT) Swag Labs.xlsx](https://github.com/user-attachments/files/20389897/OAT.Swag.Labs.xlsx)
+
 - evidence  
    - SC01_ตรวจสอบการเข้าสู่ระบบ
       - TC001_ระบบสามารถ login ได้เมื่อกรอกข้อมูลที่ถูกต้อง 📎 [Before_login](./evidence/swag-test-evidence/SWAG_evidence/SC01_ตรวจสอบการเข้าสู่ระบบ/TC001_valid_login/B_หน้าlogin.jpg) 📎 [After_login](./evidence/swag-test-evidence/SWAG_evidence/SC01_ตรวจสอบการเข้าสู่ระบบ/TC001_valid_login/A_หน้าlogin.jpg)
